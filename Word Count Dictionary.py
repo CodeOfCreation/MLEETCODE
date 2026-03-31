@@ -1,6 +1,7 @@
 def word_count_dict(sentences):
     """
     Returns: dict[str, int] - global word frequency across all sentences
+    small NLP Problem: word count dictionary
     """
     word_counts = {}
 
