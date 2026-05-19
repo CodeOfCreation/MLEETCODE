@@ -1,4 +1,5 @@
 #1. Two Sum
+from typing import List
 #Given an array of integers nums and an integer target, return indices of the two numbers 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
